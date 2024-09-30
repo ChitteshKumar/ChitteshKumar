@@ -7,8 +7,8 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Software Engineer
-📫 How to reach me: [Mail](chitteshkrsingore@gmail.com)<br
+✨ Software Engineer <br>
+📫 Reach me: [Mail](chitteshkrsingore@gmail.com)<br>
 <!--- Adding Tech Stack open Section -->
 
 - 💞️ I’m looking to collaborate on Open-source projects.
@@ -42,4 +42,4 @@
 
 ## Recent Projects 📚 
 
-  ✨ [Simulation of Swarm Robotics](https://github.com/ChitteshKumar/swarm_robotics_pheromones)<br>
+  ✨ [Simulation of Swarm Robotics](https://github.com/ChitteshKumar/swarm_robotics_pheromones): Developed a bio-inspired pheromone algorithm for swarm robots, increasing efficiency by 20%. Implemented in Python using Webots for simulation and optimized for collaborative task completion.<br> 
