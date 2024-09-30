@@ -31,8 +31,6 @@
 
 <!--- 2nd Section on GitHub Analytics -->
 
-
-  <summary><b>⚙️ GitHub Analytics</b></summary>
 <!-- <a href="https://github.com/ChitteshKumar">
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
     <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
@@ -41,7 +39,7 @@
 
 <!--- 3rd Section on Recent Projects -->
 
-  <details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+
+## Recent Projects 📚 
 
   ✨ [Simulation of Swarm Robotics](https://github.com/ChitteshKumar/swarm_robotics_pheromones)<br>
