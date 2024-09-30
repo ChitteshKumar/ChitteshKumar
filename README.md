@@ -11,17 +11,14 @@
 📫 How to reach me: [Mail](chitteshkrsingore@gmail.com)<br
 <!--- Adding Tech Stack open Section -->
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Open-source projects.
 
 [![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar)
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.holopin.io/userbadge/cm1oxvfda99630cmnj9vanlh1">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
 </div>
 
 
