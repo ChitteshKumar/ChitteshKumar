@@ -18,6 +18,13 @@
 
 [![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar)
 
+## Certification Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://www.holopin.io/userbadge/cm1oxvfda99630cmnj9vanlh1">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>
+
+
 
 <!--- 2nd Section on GitHub Analytics -->
 
