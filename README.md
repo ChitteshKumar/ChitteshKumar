@@ -19,6 +19,12 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://www.holopin.io/userbadge/cm1oxvfda99630cmnj9vanlh1">
 <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/ChitteshSingore-6358/HRTXSF38?sharingId=6DE216323B20B5C5">
+<img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-learn-challenge-build-2024-badge.png" width="100px" height="100px" />
+
+
+  
 </div>
 
 
