@@ -52,7 +52,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <a href="https://github.com/ChitteshKumar">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChitteshKumar&theme=github_dark" alt="Chittesh Kumar github stats" />
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChitteshKumar&theme=github_dark" alt="My Top Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChitteshKumar&theme=github_dark" alt="Stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChitteshKumar&theme=github_dark" alt="Stats" class="center" />
 <br>
      
 
