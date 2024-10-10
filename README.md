@@ -47,6 +47,13 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </div>
 
 
+<br>
+<br>
+
+[![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar)
+
+
+
 <!--stats-->
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/ChitteshKumar">
