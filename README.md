@@ -52,15 +52,15 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 	<td><strong>Frontend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
-<tr>
+<!-- <tr>
 	<td><strong>Backend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 	<td><strong>Frameworks</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr>
+</tr> -->
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
