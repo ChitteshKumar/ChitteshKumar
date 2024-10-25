@@ -83,13 +83,15 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="https://gssoc.girlscript.tech/leaderboard">
+	  <br>
           <img src="https://github.com/user-attachments/assets/72f7fca1-d2fe-4ec9-8dfe-8ea389d6bbea" alt="GirlScript Summer of Code" width="120" />
           <br>
-          <strong>GirlScript Summer of Code</strong>
+          <strong>GirlScript Summer of Code(2024 Extd)</strong>
         </a>
         <br>
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 150th</span>
         <br>
+	<br>
         <span style="font-size: 12px; color: #777777;">
 	  Out of 2,000+ participants<br>
           PRs Merged: 5<br>
