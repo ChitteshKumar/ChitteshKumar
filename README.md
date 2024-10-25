@@ -2,8 +2,9 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/chittesh-kumar-singore-381ab324b">LinkedIn</a> -
-  <a href="chitteshkrsingore@gmail.com">Mail</a>
+  <a href="https://www.linkedin.com/in/chittesh-kumar-singore-381ab324b"><img height=40 src = "https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
+	&nbsp; &nbsp; &nbsp; 
+  <a href="chitteshkrsingore@gmail.com"><img height=40 src = "https://skillicons.dev/icons?i=gmail&theme=dark"></a>
 </p>
 
 -----------------------------------------------------------
@@ -52,19 +53,23 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 	<td><strong>Frontend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
-<!-- <tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
-</tr> -->
+<tr>
+	<td><strong>API</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=postman&theme=dark"></td>
+</tr> 
 
-<!-- <tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr> -->
+<tr>
+	<td><strong>Frameworks & Libraries</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=opencv,sklearn, tensorflow&theme=dark"></td>
+</tr> 
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Environments </strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=vscode&theme=dark"></td>
 </tr>
 
 </table>
