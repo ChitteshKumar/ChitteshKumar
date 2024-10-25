@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on Open-source projects.
 
-<details>
+<!-- <details>
 <summary><b>🛠 Tech Stack</b></summary><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
@@ -22,7 +22,7 @@ Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&log
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp;<br>
-Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here 
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
@@ -35,12 +35,45 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; 
 </details>
 <br>
-<!-- [![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar) -->
+[![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar) -->
+
+## Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+
+</table>
+<br>
+
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://www.holopin.io/userbadge/cm1oxvfda99630cmnj9vanlh1">
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+<!-- <a href="https://www.holopin.io/userbadge/cm1oxvfda99630cmnj9vanlh1">
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" /> -->
 
 <a href="https://learn.microsoft.com/api/achievements/share/en-us/ChitteshSingore-6358/HRTXSF38?sharingId=6DE216323B20B5C5">
 <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-learn-challenge-build-2024-badge.png" width="100px" height="100px" />
