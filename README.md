@@ -83,10 +83,6 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <br>
 <br>
 
-[![An image of @chitteshkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitteshkumar)](https://holopin.io/@chitteshkumar)
-
-
-
 <!--stats-->
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/ChitteshKumar">
@@ -95,7 +91,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChitteshKumar&theme=github_dark" alt="Stats" class="center" />
 <br>
      
-## GSSOC(24) Badges 🪶
+<!--   <## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -103,13 +99,49 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a> -->
-</div>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /></a> 
+</div> -->
 
 
 ## :zap: Open Source Programs & Achievements
+
+
+
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="https://holopin.io/@chitteshkumar">
+	  <br>
+  		<img src="https://github.com/user-attachments/assets/1d3551a4-8907-4dab-95fc-0e62f6594620" alt="HacktoberFest 2024" width="120" />
+	  <br>
+	  <strong> Hacktober Fest 2024 </strong>
+          <br>
+        </a>
+        <br>
+        <td style="padding: 15px;" valign="top" width="50%">
+        	<table>
+	 		<tr align="center">
+		            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+		              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
+		              <br>
+		              <strong>Explorer Badge</strong>
+		            </td>
+        		</tr>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
 
 <div align="center">
   <table>
