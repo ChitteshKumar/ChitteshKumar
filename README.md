@@ -9,7 +9,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-learn-challenge-build-2024-badge.png"  width="150px" align="right" />
 
-✨ Software Engineer <br>
+✨ Junior Software Engineer at Tech Mahindra, Reading, UK <br>
 <!--- 📫 Reach me: [Mail](chitteshkrsingore@gmail.com)<br> -->
 <!--- Adding Tech Stack open Section -->
 
@@ -46,7 +46,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,firebase&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
