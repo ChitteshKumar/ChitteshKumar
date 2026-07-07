@@ -10,7 +10,7 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-learn-challenge-build-2024-badge.png"  width="150px" align="right" />
 
-✨ Junior Software Engineer at Tech Mahindra, Reading, UK <br>
+✨ Former Data Analyst/Junior Software Engineer at Tech Mahindra, Reading, UK <br>
 <!--- 📫 Reach me: [Mail](chitteshkrsingore@gmail.com)<br> -->
 <!--- Adding Tech Stack open Section -->
 
